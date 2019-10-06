@@ -1,0 +1,196 @@
+AddVideoView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class AddVideoView(/
+AdminUserRequiredMixin	/Users/guan/Mine/Github/videoproject/helpers.py	/^class AdminUserRequiredMixin(/
+AuthorRequiredMixin	/Users/guan/Mine/Github/videoproject/helpers.py	/^class AuthorRequiredMixin(/
+ChangePwdForm	/Users/guan/Mine/Github/videoproject/users/forms.py	/^class ChangePwdForm(/
+Classification	/Users/guan/Mine/Github/videoproject/video/models.py	/^class Classification(/
+ClassificationAddForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class ClassificationAddForm(/
+ClassificationAddView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class ClassificationAddView(/
+ClassificationEditForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class ClassificationEditForm(/
+ClassificationEditView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class ClassificationEditView(/
+ClassificationListView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class ClassificationListView(/
+CollectListView	/Users/guan/Mine/Github/videoproject/users/views.py	/^class CollectListView(/
+Comment	/Users/guan/Mine/Github/videoproject/comment/models.py	/^class Comment(/
+CommentConfig	/Users/guan/Mine/Github/videoproject/comment/apps.py	/^class CommentConfig(/
+CommentForm	/Users/guan/Mine/Github/videoproject/video/forms.py	/^class CommentForm(/
+CommentListView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class CommentListView(/
+CommentQuerySet	/Users/guan/Mine/Github/videoproject/comment/models.py	/^class CommentQuerySet(/
+Feedback	/Users/guan/Mine/Github/videoproject/users/models.py	/^class Feedback(/
+FeedbackForm	/Users/guan/Mine/Github/videoproject/users/forms.py	/^class FeedbackForm(/
+FeedbackListView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class FeedbackListView(/
+FeedbackView	/Users/guan/Mine/Github/videoproject/users/views.py	/^class FeedbackView(/
+IndexView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class IndexView(/
+IndexView	/Users/guan/Mine/Github/videoproject/video/views.py	/^class IndexView(/
+LikeListView	/Users/guan/Mine/Github/videoproject/users/views.py	/^class LikeListView(/
+Meta	/Users/guan/Mine/Github/videoproject/comment/models.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/models.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/users/models.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/video/forms.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/video/models.py	/^    class Meta:/
+Meta	/Users/guan/Mine/Github/videoproject/video/models.py	/^    class Meta:/
+MyChunkedUpload	/Users/guan/Mine/Github/videoproject/myadmin/models.py	/^class MyChunkedUpload(/
+MyChunkedUploadCompleteView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class MyChunkedUploadCompleteView(/
+MyChunkedUploadView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class MyChunkedUploadView(/
+MyadminConfig	/Users/guan/Mine/Github/videoproject/myadmin/apps.py	/^class MyadminConfig(/
+ProfileForm	/Users/guan/Mine/Github/videoproject/users/forms.py	/^class ProfileForm(/
+ProfileView	/Users/guan/Mine/Github/videoproject/users/views.py	/^class ProfileView(/
+SearchListView	/Users/guan/Mine/Github/videoproject/video/views.py	/^class SearchListView(/
+SignUpForm	/Users/guan/Mine/Github/videoproject/users/forms.py	/^class SignUpForm(/
+SubscribeForm	/Users/guan/Mine/Github/videoproject/users/forms.py	/^class SubscribeForm(/
+SubscribeView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class SubscribeView(/
+SubscribeView	/Users/guan/Mine/Github/videoproject/users/views.py	/^class SubscribeView(/
+SuperUserRequiredMixin	/Users/guan/Mine/Github/videoproject/helpers.py	/^class SuperUserRequiredMixin(/
+User	/Users/guan/Mine/Github/videoproject/users/models.py	/^class User(/
+UserAddForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class UserAddForm(/
+UserAddView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class UserAddView(/
+UserEditForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class UserEditForm(/
+UserEditView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class UserEditView(/
+UserListView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class UserListView(/
+UserLoginForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class UserLoginForm(/
+UserLoginForm	/Users/guan/Mine/Github/videoproject/users/forms.py	/^class UserLoginForm(/
+UsersConfig	/Users/guan/Mine/Github/videoproject/users/apps.py	/^class UsersConfig(/
+Video	/Users/guan/Mine/Github/videoproject/video/models.py	/^class Video(/
+VideoConfig	/Users/guan/Mine/Github/videoproject/video/apps.py	/^class VideoConfig(/
+VideoDetailView	/Users/guan/Mine/Github/videoproject/video/views.py	/^class VideoDetailView(/
+VideoEditForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class VideoEditForm(/
+VideoEditView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class VideoEditView(/
+VideoListView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class VideoListView(/
+VideoPublishForm	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^class VideoPublishForm(/
+VideoPublishSuccessView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class VideoPublishSuccessView(/
+VideoPublishView	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^class VideoPublishView(/
+VideoQuerySet	/Users/guan/Mine/Github/videoproject/video/models.py	/^class VideoQuerySet(/
+__init__	/Users/guan/Mine/Github/videoproject/__init__.py	1
+__init__	/Users/guan/Mine/Github/videoproject/comment/__init__.py	1
+__init__	/Users/guan/Mine/Github/videoproject/myadmin/__init__.py	1
+__init__	/Users/guan/Mine/Github/videoproject/users/__init__.py	1
+__init__	/Users/guan/Mine/Github/videoproject/video/__init__.py	1
+__init__	/Users/guan/Mine/Github/videoproject/video/templatetags/__init__.py	1
+__init__	/Users/guan/Mine/Github/videoproject/videoproject/__init__.py	1
+__str__	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def __str__(/
+admin	/Users/guan/Mine/Github/videoproject/comment/admin.py	1
+admin	/Users/guan/Mine/Github/videoproject/myadmin/admin.py	1
+admin	/Users/guan/Mine/Github/videoproject/users/admin.py	1
+admin	/Users/guan/Mine/Github/videoproject/video/admin.py	1
+ajax_required	/Users/guan/Mine/Github/videoproject/helpers.py	/^def ajax_required(/
+apps	/Users/guan/Mine/Github/videoproject/comment/apps.py	1
+apps	/Users/guan/Mine/Github/videoproject/myadmin/apps.py	1
+apps	/Users/guan/Mine/Github/videoproject/users/apps.py	1
+apps	/Users/guan/Mine/Github/videoproject/video/apps.py	1
+auto_delete_file_on_delete	/Users/guan/Mine/Github/videoproject/video/models.py	/^def auto_delete_file_on_delete(/
+avatar_file_size	/Users/guan/Mine/Github/videoproject/users/forms.py	/^def avatar_file_size(/
+change_password	/Users/guan/Mine/Github/videoproject/users/views.py	/^def change_password(/
+classification_delete	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def classification_delete(/
+collect	/Users/guan/Mine/Github/videoproject/video/views.py	/^def collect(/
+comment_delete	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def comment_delete(/
+count_collecters	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def count_collecters(/
+count_likers	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def count_likers(/
+dispatch	/Users/guan/Mine/Github/videoproject/helpers.py	/^    def dispatch(/
+dispatch	/Users/guan/Mine/Github/videoproject/helpers.py	/^    def dispatch(/
+dispatch	/Users/guan/Mine/Github/videoproject/helpers.py	/^    def dispatch(/
+feedback_delete	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def feedback_delete(/
+forms	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	1
+forms	/Users/guan/Mine/Github/videoproject/users/forms.py	1
+forms	/Users/guan/Mine/Github/videoproject/video/forms.py	1
+get	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get(/
+get	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get(/
+get	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get(/
+get	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get(/
+get_comments	/Users/guan/Mine/Github/videoproject/comment/views.py	/^def get_comments(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/video/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/video/views.py	/^    def get_context_data(/
+get_context_data	/Users/guan/Mine/Github/videoproject/video/views.py	/^    def get_context_data(/
+get_count	/Users/guan/Mine/Github/videoproject/comment/models.py	/^    def get_count(/
+get_count	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def get_count(/
+get_not_published_count	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def get_not_published_count(/
+get_object	/Users/guan/Mine/Github/videoproject/video/views.py	/^    def get_object(/
+get_page_list	/Users/guan/Mine/Github/videoproject/helpers.py	/^def get_page_list(/
+get_published_count	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def get_published_count(/
+get_published_list	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def get_published_list(/
+get_queryset	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/video/views.py	/^    def get_queryset(/
+get_queryset	/Users/guan/Mine/Github/videoproject/video/views.py	/^    def get_queryset(/
+get_recommend_list	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def get_recommend_list(/
+get_response_data	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_response_data(/
+get_search_list	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def get_search_list(/
+get_success_url	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_success_url(/
+get_success_url	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_success_url(/
+get_success_url	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_success_url(/
+get_success_url	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def get_success_url(/
+get_success_url	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_success_url(/
+get_success_url	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_success_url(/
+get_success_url	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def get_success_url(/
+get_today_count	/Users/guan/Mine/Github/videoproject/comment/models.py	/^    def get_today_count(/
+helpers	/Users/guan/Mine/Github/videoproject/helpers.py	1
+increase_view_count	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def increase_view_count(/
+like	/Users/guan/Mine/Github/videoproject/video/views.py	/^def like(/
+login	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def login(/
+login	/Users/guan/Mine/Github/videoproject/users/views.py	/^def login(/
+logout	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def logout(/
+logout	/Users/guan/Mine/Github/videoproject/users/views.py	/^def logout(/
+manage	/Users/guan/Mine/Github/videoproject/manage.py	1
+models	/Users/guan/Mine/Github/videoproject/comment/models.py	1
+models	/Users/guan/Mine/Github/videoproject/myadmin/models.py	1
+models	/Users/guan/Mine/Github/videoproject/users/models.py	1
+models	/Users/guan/Mine/Github/videoproject/video/models.py	1
+on_completion	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def on_completion(/
+post	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def post(/
+post	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def post(/
+post	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^    def post(/
+post	/Users/guan/Mine/Github/videoproject/users/views.py	/^    def post(/
+send_email	/Users/guan/Mine/Github/videoproject/helpers.py	/^def send_email(/
+send_html_email	/Users/guan/Mine/Github/videoproject/helpers.py	/^def send_html_email(/
+settings	/Users/guan/Mine/Github/videoproject/videoproject/settings.py	1
+signup	/Users/guan/Mine/Github/videoproject/users/views.py	/^def signup(/
+submit_comment	/Users/guan/Mine/Github/videoproject/comment/views.py	/^def submit_comment(/
+switch_collect	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def switch_collect(/
+switch_like	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def switch_like(/
+tests	/Users/guan/Mine/Github/videoproject/comment/tests.py	1
+tests	/Users/guan/Mine/Github/videoproject/myadmin/tests.py	1
+tests	/Users/guan/Mine/Github/videoproject/users/tests.py	1
+tests	/Users/guan/Mine/Github/videoproject/video/tests.py	1
+time_since	/Users/guan/Mine/Github/videoproject/video/templatetags/video_tag.py	/^def time_since(/
+urls	/Users/guan/Mine/Github/videoproject/comment/urls.py	1
+urls	/Users/guan/Mine/Github/videoproject/myadmin/urls.py	1
+urls	/Users/guan/Mine/Github/videoproject/users/urls.py	1
+urls	/Users/guan/Mine/Github/videoproject/video/urls.py	1
+urls	/Users/guan/Mine/Github/videoproject/videoproject/urls.py	1
+user_collected	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def user_collected(/
+user_collected_class	/Users/guan/Mine/Github/videoproject/video/templatetags/video_tag.py	/^def user_collected_class(/
+user_delete	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def user_delete(/
+user_liked	/Users/guan/Mine/Github/videoproject/video/models.py	/^    def user_liked(/
+user_liked_class	/Users/guan/Mine/Github/videoproject/video/templatetags/video_tag.py	/^def user_liked_class(/
+username_validate	/Users/guan/Mine/Github/videoproject/myadmin/forms.py	/^def username_validate(/
+video_delete	/Users/guan/Mine/Github/videoproject/myadmin/views.py	/^def video_delete(/
+video_tag	/Users/guan/Mine/Github/videoproject/video/templatetags/video_tag.py	1
+views	/Users/guan/Mine/Github/videoproject/comment/views.py	1
+views	/Users/guan/Mine/Github/videoproject/myadmin/views.py	1
+views	/Users/guan/Mine/Github/videoproject/users/views.py	1
+views	/Users/guan/Mine/Github/videoproject/video/views.py	1
+wrap	/Users/guan/Mine/Github/videoproject/helpers.py	/^    def wrap(/
+wsgi	/Users/guan/Mine/Github/videoproject/videoproject/wsgi.py	1
